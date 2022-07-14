@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mallika Agarwal</title>
+        <link rel="stylesheet" href="style2.css">
+    </head>
+
+    <body>
+        <marquee>MALLIKA AGARWAL | DIT UNIVERSITY | BACHELORS IN TECHNOLOGY IN COMPUTER SCIENCE (2020 - 2024) | CODER
+        </marquee>
+        <div class="container1">
+            <div class="box" id="box1">
+                <img class="profile" src="img/profile2.jpeg">
+            </div>
+            <div class="box" id="box2">Hi, <br>
+                I'm Mallika Agarwal<div class="inside">Skilled in Engineering ,Communication, and Mirosoft Office.
+                    <br>
+                    Strong Professional with BTech focused in Computer Science.
+                </div></div>
+        </div>
+        <hr><hr><br>
+        <div class="lang">LANGUAGES</div><br>
+        <div class="container2">
+
+            <div class="line1">
+                <img src="python.jpg" alt="" class="image" id="image1">
+                <img src="c logo.png" alt="" class="image" id="image2">
+                <img src="css.png" alt="" class="image" id="image3">
+            </div>
+            <div class="line2">
+                <img src="html.png" alt="" class="image" id="image4">
+                <img src="java logo.png" alt="" class="image" id="image5">
+                <img src="sql.png" alt="" class="image" id="image6">
+            </div>
+
+
+        </div><br>
+        <hr><br>
+        <div class="lang1">CERTIFICATES</div><br>
+        <div class="container3">
+
+            <div class="card" id="card1">
+                <h2>Data Structures in C </h2>
+                <p>https://olympus1.mygreatlearning.com/
+                    course_certificate/OSQDSWBH</p>
+                <a href="https://olympus1.mygreatlearning.com/course_certificate/OSQDSWBH" target="_blank">Visit ></a>
+                <!-- <h2>Visit ></h2> -->
+            </div>
+            <div class="card" id="card2">
+                <h2>Problem Solving (Basic)</h2>
+                <p>https://www.hackerrank.com/
+                    certificates/78f96cb8fbdc</p>
+                <a href="https://www.hackerrank.com/certificates/78f96cb8fbdc" target="_blank">Visit ></a>
+            </div>
+            <div class="card" id="card3">
+                <h2>Java (Basic)</h2>
+                <p>https://www.hackerrank.com/
+                    certificates/066fcbf8dc8b</p>
+                <a href="https://www.hackerrank.com/certificates/066fcbf8dc8b" target="_blank">Visit ></a>
+            </div>
+        </div>
+        <div class="container3">
+
+            <div class="card" id="card1">
+                <h2>SQL (Basic)</h2>
+                <p>https://www.hackerrank.com/
+                    certificates/00f69a68d274</p>
+                <a href="https://www.hackerrank.com/certificates/00f69a68d274" target="_blank">Visit ></a>
+                <!-- <h2>Visit ></h2> -->
+            </div>
+            <div class="card" id="card2">
+                <h2>SQL (Intermediate)</h2>
+                <p>https://www.hackerrank.com/
+                    certificates/ad694d5357fe</p>
+                <a href="https://www.hackerrank.com/certificates/ad694d5357fe" target="_blank">Visit ></a>
+            </div>
+            <div class="card" id="card3">
+                <h2>Introduction to Digital Marketing</h2>
+                <p>https://olympus1.mygreatlearning.com/
+                    course_certificate/LNCBOERL</p>
+                <a href="https://olympus1.mygreatlearning.com/course_certificate/LNCBOERL" target="_blank">Visit ></a>
+            </div>
+        </div>
+        </div>
+        <div class="container4">
+            <a href="https://www.hackerrank.com/h1000015263" target="_blank"> <img src="hackerrank.png" alt=""></a>
+            <a href="https://auth.geeksforgeeks.org/user/mallika20/profile" target="_blank"> <img src="gfg.png"
+                    alt=""></a>
+            <a href="https://www.linkedin.com/in/mallika20" target="_blank"> <img src="linkedin.png" alt=""></a>
+            <a href="https://mail.google.com/" target="_blank"><img src="email.jpg" alt=""></a>
+            <!-- <div>mallika20jun@gmail.com</div> -->
+        </div>
+    </body>
+
+</html>
